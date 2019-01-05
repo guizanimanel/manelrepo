@@ -17,7 +17,7 @@ public class Loup {
 	public void tourner() {
 
 		
-		// changement branchA
+		// changement branchA modifié
 		
 		switch (orientation) {
 		case NORD:
