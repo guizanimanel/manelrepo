@@ -1,5 +1,10 @@
 package com.java.test;
 
+/**
+ * Classe Loup
+ * @author m.guizani
+ *
+ */
 public class Loup {
 
 	private Orientation orientation;
